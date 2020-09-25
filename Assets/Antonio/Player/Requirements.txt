@@ -1,0 +1,11 @@
+﻿
+1- Create a new Layer in the slot 9 called "Ground"  (colliders where the player stands, must be set in this layer).
+2- Put the Player and Camera prefab in the level environment.
+3- Select Camera prefab and place the player obj in the "target" value.
+
+
+
+After some test I find that:
+
+Player can jump some 4 units easily.
+It can jump over obstacles of 2.5 units that are next to him.

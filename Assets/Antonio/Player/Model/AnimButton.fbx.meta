@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: ed99696001729b141b99e631ad42f7ea
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: AnkelLeftjoint10
+    100002: AnkelRightjoint7
+    100004: BackPackjoint5
+    100006: bacpackpCube2
+    100008: bacpackpCube5
+    100010: Bellyjoint2
+    100012: BigHeadjoint7
+    100014: Chestjoint3
+    100016: Corejoint1
+    100018: ElbowRightjoint12
+    100020: ElowLeftjoint12
+    100022: FingersLeftjoint15
+    100024: FingersRightjoint15
+    100026: group1
+    100028: Headgroup2
+    100030: HeadJoinjoint4
+    100032: HealLeftjoint20
+    100034: HealRightjoint17
+    100036: helmitpSolid2
+    100038: HipLeftjoint8
+    100040: HipRightjoint5
+    100042: InstepLeftjoint21
+    100044: InstepRightjoint18
+    100046: joint1
+    100048: joint2
+    100050: joint3
+    100052: joint4
+    100054: joint6
+    100056: joint8
+    100058: KeeRightjoint6
+    100060: KneeLeftjoint9
+    100062: mansuit
+    100064: PalmLeftjoint14
+    100066: PalmRightjoint14
+    100068: PhumbLeftjoint16
+    100070: PhumbRightjoint23
+    100072: RistLeftjoint13
+    100074: RistRightjoint13
+    100076: SholderRightjoint11
+    100078: SholuderLeftjoint16
+    100080: //RootNode
+    100082: ToesLeftjoint22
+    100084: ToesRightjoint19
+    100086: transform2
+    100088: visapSolid1
+    400000: AnkelLeftjoint10
+    400002: AnkelRightjoint7
+    400004: BackPackjoint5
+    400006: bacpackpCube2
+    400008: bacpackpCube5
+    400010: Bellyjoint2
+    400012: BigHeadjoint7
+    400014: Chestjoint3
+    400016: Corejoint1
+    400018: ElbowRightjoint12
+    400020: ElowLeftjoint12
+    400022: FingersLeftjoint15
+    400024: FingersRightjoint15
+    400026: group1
+    400028: Headgroup2
+    400030: HeadJoinjoint4
+    400032: HealLeftjoint20
+    400034: HealRightjoint17
+    400036: helmitpSolid2
+    400038: HipLeftjoint8
+    400040: HipRightjoint5
+    400042: InstepLeftjoint21
+    400044: InstepRightjoint18
+    400046: joint1
+    400048: joint2
+    400050: joint3
+    400052: joint4
+    400054: joint6
+    400056: joint8
+    400058: KeeRightjoint6
+    400060: KneeLeftjoint9
+    400062: mansuit
+    400064: PalmLeftjoint14
+    400066: PalmRightjoint14
+    400068: PhumbLeftjoint16
+    400070: PhumbRightjoint23
+    400072: RistLeftjoint13
+    400074: RistRightjoint13
+    400076: SholderRightjoint11
+    400078: SholuderLeftjoint16
+    400080: //RootNode
+    400082: ToesLeftjoint22
+    400084: ToesRightjoint19
+    400086: transform2
+    400088: visapSolid1
+    2100000: phongE1SpaceMan
+    2100002: phongE4BackPack
+    2100004: phongE2Helmit
+    2100006: phongE3Visa
+    4300000: mansuit
+    4300002: bacpackpCube5
+    4300004: helmitpSolid2
+    4300006: visapSolid1
+    7400000: ButtonAction
+    9500000: //RootNode
+    13700000: bacpackpCube5
+    13700002: helmitpSolid2
+    13700004: mansuit
+    13700006: visapSolid1
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: ButtonAction
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 42
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 15
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
